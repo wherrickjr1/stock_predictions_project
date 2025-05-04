@@ -1,3 +1,5 @@
 *.csv
 *.log
 *.temp
+.ipynb_checkpoints/
+__pycache__
